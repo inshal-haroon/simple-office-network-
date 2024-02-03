@@ -50,8 +50,8 @@ Configured the router with Default gateway: 192.168.1.1 for VLAN 10     <br>
 Configured the router with Default gateway: 192.168.1.65 for VLAN 20    <br>
 Configured the router with Default gateway: 192.168.1.129 for VLAN 30    <br>
 
-We are only using 9 ports of the switch and hence we configured the switch for 3 ports each for each VLAN, so,
-Ports 2,3 and 4 = VLAN 10
-Ports 5,6 and 7 = VLAN 20
-Ports 8,9 and 10 = VLAN 30
+We are only using 9 ports of the switch and hence we configured the switch for 3 ports each for each VLAN, so, <br>
+Ports 2,3 and 4 = VLAN 10    <br>
+Ports 5,6 and 7 = VLAN 20    <br>
+Ports 8,9 and 10 = VLAN 30    <br>
 
