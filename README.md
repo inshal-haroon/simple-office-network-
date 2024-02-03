@@ -1,7 +1,7 @@
 This is a simple office network which consists of 3 departments connected with eachother through 1 switch and 1 router.
 
 Being a small network, the company network has the following characteristics:
-a) One router and one switch are used. (CISCO products in this project)   
+a) One router and one switch are used. (CISCO products in this project) <br>
 b) 3 departments (Admin, Finance and Reception)
 c) Each department is in different VLAN
 d) Each department have a wireless network (Access point) for users
